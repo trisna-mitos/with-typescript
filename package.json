@@ -11,12 +11,13 @@
     "next": "latest",
     "next-auth": "^4.12.3",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-moengage": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
     "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",
-    "typescript": "^4.8.3"
+    "typescript": "^4.8.4"
   }
 }
