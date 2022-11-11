@@ -19,9 +19,11 @@ class MyDocument extends Document {
             debug_logs: 0,
             sw_path: "/serviceworker.js",
           });
+          Moengage.call_web_push();
           Moengage.add_first_name("trisna");
           Moengage.add_email("trisna@gmail.com");
           Moengage.add_user_attribute("ID", "123456");
+
           `}}>
         </script>
         </Head>
